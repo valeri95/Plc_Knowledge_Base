@@ -20,7 +20,10 @@ Utilities to make your work life easier
 * [The Automation Blog](https://theautomationblog.com/) `Hardware Review` `Training` `Videos` `Blog` `Podcast`
 * [Control Global](https://www.controlglobal.com/) `News` `Magazine` `Process Control`
 * [Control Automation](https://control.com) `Podcast` `Blog` `Articles` `Forum`
-* <img src="https://rss.com/blog/wp-content/uploads/2019/10/social_style_3_rss-512-1.png" width="12" height="12">
+* <img src="https://rss.com/blog/wp-content/uploads/2019/10/social_style_3_rss-512-1.png" width="12" height="12">[CISA ICS Monitor Newsletters](https://www.us-cert.gov/ics/monitors/monitors.xml) `Cybersecurity`
+* <img src="https://rss.com/blog/wp-content/uploads/2019/10/social_style_3_rss-512-1.png" width="12" height="12">[CISA ICS Alerts](https://www.us-cert.gov/ics/alerts/alerts.xml) `Cybersecurity` 
+* <img src="https://rss.com/blog/wp-content/uploads/2019/10/social_style_3_rss-512-1.png" width="12" height="12">[CISA ICS Announcements](https://www.us-cert.gov/ics/announcements/announcements.xml) `Cybersecurity`
+* <img src="https://rss.com/blog/wp-content/uploads/2019/10/social_style_3_rss-512-1.png" width="12" height="12">[Beckhoff IPC Security](https://www.beckhoff.com/en-en/company/news/rss-feeds/rss-ipc-security/beckhoff_ipc_security_rss_feed.xml) `TwinCAT` `Cybersecurity`
 
 
 ## Training Resources
