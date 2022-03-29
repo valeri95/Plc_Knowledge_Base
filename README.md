@@ -20,7 +20,8 @@ Utilities to make your work life easier
 * [The Automation Blog](https://theautomationblog.com/) `Hardware Review` `Training` `Videos` `Blog` `Podcast`
 * [Control Global](https://www.controlglobal.com/) `News` `Magazine` `Process Control`
 * [Control Automation](https://control.com) `Podcast` `Blog` `Articles` `Forum`
-* ![alt image text](https://rss.com/blog/wp-content/uploads/2019/10/social_style_3_rss-512-1.png =50x50)
+* <img src="https://rss.com/blog/wp-content/uploads/2019/10/social_style_3_rss-512-1.png" width="50" height="50">
+
 
 ## Training Resources
 * [Contact and Coil](https://www.contactandcoil.com/) `Tutorials` `TwinCAT` `RsLogix`
