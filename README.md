@@ -15,11 +15,12 @@ Utilities to make your work life easier
 * [N-Pulse ](https://npulse.net/en/online-modbus) `Web Based` `Modbus` 
     * Interactive Modbus parser and tables
 
-## Blogs, Channels and Other Sites
+## Blogs, Channels, RSS and Other Sites
 * [Stephan Henneken](https://stefanhenneken.net/) `Blog` `OOP` `TwinCAT` `Codesys`
 * [The Automation Blog](https://theautomationblog.com/) `Hardware Review` `Training` `Videos` `Blog` `Podcast`
 * [Control Global](https://www.controlglobal.com/) `News` `Magazine` `Process Control`
 * [Control Automation](https://control.com) `Podcast` `Blog` `Articles` `Forum`
+* ![alt image text](https://rss.com/blog/wp-content/uploads/2019/10/social_style_3_rss-512-1.png)
 
 ## Training Resources
 * [Contact and Coil](https://www.contactandcoil.com/) `Tutorials` `TwinCAT` `RsLogix`
