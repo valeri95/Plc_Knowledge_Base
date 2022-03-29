@@ -20,12 +20,14 @@ Utilities to make your work life easier
 * [The Automation Blog](https://theautomationblog.com/) `Hardware Review` `Training` `Videos` `Blog` `Podcast`
 * [Control Global](https://www.controlglobal.com/) `News` `Magazine` `Process Control`
 * [Control Automation](https://control.com) `Podcast` `Blog` `Articles` `Forum`
-
+* [AllTwinCAT](https://alltwincat.com/) `Blog` `TwinCAT` `YouTube`
 
 
 
 ## Training Resources
 * [Contact and Coil](https://www.contactandcoil.com/) `Tutorials` `TwinCAT` `RsLogix`
+* [Electrical Automation Hands On](https://www.youtube.com/channel/UCZqe2O5oBpas73BVdwHTiCA/featured) `Omron` `TwinCAT` `RsLogix` `Siemens`
+* [Oleg Mueller](https://www.youtube.com/channel/UCHvABpkd825kAtaDxnhE-tg/featured) `TwinCAT` `Youtube`
 
 ## Organizations
 * [ISA - International Society of Automation](https://www.isa.org) `Standards` `Education`
