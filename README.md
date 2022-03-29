@@ -35,8 +35,11 @@ Utilities to make your work life easier
 * [Controlthings.io](https://www.controlthings.io) `Training` `Security Platform`
     * [Protocol List](https://docs.google.com/spreadsheets/d/1G3WStQJpTKe6DfQlq7knpZSK8AcxG4eQDj1HLk8LZq0/edit#gid=0) `Protocols`
 * [SCADAHacker](https://scadahacker.com/) `Resources` `Paid Training` `Certifications`
-* [Shodan](https://www.shodan.io/)
-    * Internet trawler that shows open, insecure devices on the internet
+* [Shodan](https://www.shodan.io/) `Bad Practices`
+    * Internet trawler that shows insecure devices on the world wide web
+* [PLC Security](https://plc-security.com/) `Resources` `Best Practices`
+* [NIST - National Institute of Standards and Technology ](https://www.nist.gov/) `Government` `Best Practices` `Education` `Resources`
+    * [ICS Guide](https://www.nist.gov/publications/guide-industrial-control-systems-ics-security) `Whitepaper` `SCADA`
 
 ## Vendor Sites
 Knowledgebases, forums, manuals
