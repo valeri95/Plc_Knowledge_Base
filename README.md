@@ -14,6 +14,9 @@ Utilities to make your work life easier
 * [Simply Modbus](http://www.simplymodbus.ca/download.htm) `Protocol` `Free/Paid`
 * [N-Pulse ](https://npulse.net/en/online-modbus) `Web Based` `Modbus` 
    * Interactive Modbus parser and tables
+* [STweep](https://www.stweep.com/) `ST code Formatter`
+* [OSCAT](http://www.oscat.de/) `Library`
+   * Library with plenty of usefull function in it
 
 ## Blogs, Channels, and Other Sites
 * [Stephan Henneken](https://stefanhenneken.net/) `Blog` `OOP` `TwinCAT` `Codesys`
@@ -22,7 +25,7 @@ Utilities to make your work life easier
 * [Control Automation](https://control.com) `Podcast` `Blog` `Articles` `Forum`
 * [AllTwinCAT](https://alltwincat.com/) `Blog` `TwinCAT` `YouTube`
 * [Hegamurl](https://www.youtube.com/channel/UC1P4ACs0hsr7AWcl-mWKQbQ/playlists) `Siemens` `TIA` `Playlist` `Youtube`
-
+* [PLCCoder.com](https://www.plccoder.com) `Blog` `TwinCAT`
 
 
 ## Training Resources
