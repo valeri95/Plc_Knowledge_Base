@@ -1,5 +1,6 @@
-# Useful ICS Links
-Place for tools the community has submitted that make our job a little bit easier. ICS = Industrial Control Systems.
+# PLC Discord Knowledge Base and Useful Links
+This knowledge base contains various resources and links for a variety of topics and platform regarding the world of ICS (Industrial Control Systems).
+Feel free to ask the mods if you want to see any new resources/links added that you feel are missing.
 
 ## Tools
 Hand tools, protocol converters and the like
