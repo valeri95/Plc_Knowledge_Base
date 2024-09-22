@@ -1,9 +1,19 @@
 # PLC Discord Knowledge Base and Useful Links
 This knowledge base contains various resources and links for a variety of topics and platform regarding the world of ICS (Industrial Control Systems).
+
 Feel free to ask the mods if you want to see any new resources/links added that you feel are missing.
 
-## Tools
-Hand tools, protocol converters and the like
+## How to get started with the world of PLCs
+If you wish to learn about PLCs or ICS in general but are unsure how to start, have a look at these resources.
+
+* [Paul Lynn's PLC Dojo five pack bundle](https://www.plcdojo.com/bundles/five-pack) `PLC` `SCADA` `Course` `Paid`
+* [Lessons in Instrumentation PDF](https://www.ibiblio.org/kuphaldt/socratic/sinst/book/liii.pdf) `Reference book` `Free`
+  * Large manual/reference book with a ton of material on calculus, chemistry, physics, process, instrumentation, and more.
+* [PDF with various PLC exercises and solutions](https://www.tshoshmand.com/images/pdf/PLC/plcapplicationexample.pdf) `Exercise book` `Free`
+* [plcprofessor YouTube channel containing lots of various playlists](https://www.youtube.com/@plcprofessor/playlists) `PLC` `SCADA` `YouTube channel` `Free`
+* [PLC series YouTube playlist]( https://www.youtube.com/playlist?list=PLoPq4u132fVAS4jYoMMUQ7QScZG9m52j9) `PLC` `YouTube playlist` `Free`
+* [How to design and build a control panel YouTube playlist](https://www.youtube.com/playlist?list=PL08lhrRW3Ce4HCVDgC9Gje23Z720aPJgu ) `Panel Design` `YouTube playlist` `Free`
+* [RealPars YouTube channel with a ton of easy to follow videos about various ICS concepts](https://www.youtube.com/@realpars/playlists) `PLC` `SCADA` `Protocols` `YouTube channel` `Free`
 
 
 ## Software
